@@ -100,7 +100,7 @@ The easiest way to run OptiMap is using Docker:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/optimap-route-optimizer.git
+git clone https://github.com/deathlynx/optimap-route-optimizer.git
 cd optimap-route-optimizer
 
 # Start all services
